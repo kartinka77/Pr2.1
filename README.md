@@ -1,4 +1,3 @@
-# Pr2.1
 <!DOCTYPE html>
 <head>
       <title>Теги дл работы с текстом</title>
